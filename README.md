@@ -6,9 +6,9 @@
 
 <p float="left">
      <div align="center">
-   Ex Co-Owner @ ImpendMC
-   Ex Owner @ Yuzai
-   Owner @ Potting
+   <a Ex Co-Owner @ ImpendMC a>
+  <a Ex Owner @ Yuzai a>
+  <a Owner @ Potting a>
   <p float="left">
     <div align="center">
       16 / he/him / java developer <br />
