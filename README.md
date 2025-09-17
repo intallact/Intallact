@@ -6,7 +6,10 @@
 
 <p float="left">
      <div align="center">
-    Ex Co-Owner @ ImpendMC <br />
+          My favourite pokemon is shaymin 🌿 <br />
+          I love my girlfriend 💕 <br /> 
+          Im from the Netherlands 🇳🇱 <br />
+   Ex Co-Owner @ ImpendMC <br />
    Ex Owner @ Yuzai <br />
    Owner @ Potting <br />
   <p float="left">
