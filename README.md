@@ -5,7 +5,7 @@
 </div>
 
 <p float="left">
- <div>Experiences:
+     <div align="center">
    Ex Co-Owner @ ImpendMC
    Ex Owner @ Yuzai
    Owner @ Potting
