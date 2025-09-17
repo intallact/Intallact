@@ -4,6 +4,11 @@
 <h1>heyyy! my name is Intallact! 👋</h1><br />
 </div>
 
+<p float="left">
+ <div>Experiences:
+   Ex Co-Owner @ ImpendMC
+   Ex Owner @ Yuzai
+   Owner @ Potting
   <p float="left">
     <div align="center">
       16 / he/him / java developer <br />
